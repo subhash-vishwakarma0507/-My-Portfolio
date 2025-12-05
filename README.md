@@ -2,7 +2,7 @@
 A modern personal portfolio built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
-[[Click here](https://my-portfolio-roan-zeta-13.vercel.app/)
+[Click here](https://my-portfolio-roan-zeta-13.vercel.app/)
 
 ## 📖 About
 This is my personal portfolio showcasing my skills, projects, and creative UI/UX work.
